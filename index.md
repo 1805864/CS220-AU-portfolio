@@ -3,23 +3,17 @@
 
 Hello! My name is Allisha. 
 
-I am a second year student, studying Digital Culture and Communications at the University of Essex.
-
-Note: I wrote this short bio to go with a recent journal publication where I was co-editor. On my personal website this bio is much shorter. Writing this bio (or abstract) is not easy, most people rewrite it very often before they consider it final for a specific purpose. So should you. Experiment and ask for feedback. 
+I am a second year student, studying Digital Culture and Communications at the University of Essex. I am also a freelance graphic designer / digital artist. I specialise in posters, logos, and cover art. 
 
 <br>
 
 ## social media links
 - [LinkedIn](https://www.linkedin.com/in/tedor)
-- [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
-
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
 
 <br>
 
 ## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
-- kris[at]khofstadter[dot]com
+- Email : ac18785@essex.ac.uk
 
 <br>
 
@@ -39,7 +33,7 @@ Note: only link social media that you are happy for people to visit i.e. if your
 
 <br>
 
-## educations
+## Education
 
 | date | degree | institute |
 --- | --- | ---
