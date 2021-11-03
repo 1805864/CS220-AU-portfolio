@@ -9,13 +9,13 @@ I have been counselling since 2016 and obtained my full counselling qualificatio
 
 
 
-Currently I am in the process of volunteering with the Open Road organisation as as Appropriate adult to safeguard a rights of vulnerable adults and children. In addition to my volunteering role I am in contact with my local borough councillar in order to set up and open up a club for the local community. Theclub will consist of individuals who come and share their stories as well as to relate one to another.    
+Currently I am in the process of volunteering with the Open Road organisation as an Appropriate adult to safeguard a rights of vulnerable adults and children. In addition to my volunteering role I am in contact with my local borough councillar in order to set up and open up a club for the local community. Theclub will consist of individuals who come and share their stories as well as to relate one to another.    
 
 
 ##  Counselling Work Experiences
 
-#### Counsellor at The King Edmund School                                          03/2020 - 10/2019
-#### Counsellor at The Olive Tree srvice                                          03/2020 - 12/2016
+#### Counsellor at The King Edmund School                                        03/2020 - 10/2019
+#### Counsellor at The Olive Tree srvice                                         03/2020 - 12/2016
 #### Counsellor at The Early Help Family Support & youth Offending Service       01/2019 - 09/2017 
 My responsibilies in each role incuded assessing individuals' needs, situations and support networks to determine their goal in a non-judgmental manner. Providing perosn-centred counselling to support clients issues rrelating to grief, anxiety, trauma anger stress and more. Advocating for and helping clients to obtain resources that imporve their well-being when applicable and managing time effectively and prioritising workload appropriately. 
 
