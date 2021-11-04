@@ -1,9 +1,9 @@
-## Allisha Cavaree
+## Student Number: 1805864
 **Digital Culture and Communications Student at Essex Univesity**  
 
 Hello! My name is Allisha. 
 
-I am a second year student, studying Digital Culture and Communications at the University of Essex. I am also a freelance graphic designer / digital artist. I specialise in posters, logos, and cover art. 
+I am a second year student, studying Digital Culture and Communications at the University of Essex. Alongside this I 
 
 <br>
 
@@ -18,64 +18,20 @@ I am a second year student, studying Digital Culture and Communications at the U
 <br>
 
 ## acedemic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
-
-<br>
-
-## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
+- Executive @ Blockchain and Cryptocurrency Society at the University of Essex 2021-2022
 
 <br>
 
 ## Education
 
-| date | degree | institute |
---- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+| Ongoing | BA Digital Culture and Communications | University of Essex |
 
 <br>
 
-## work experience
-### research assistant positions
-#### StoryLab Research Institute
+## Work Experience
 
-11/2017 - 08/2021 &nbsp; &nbsp; ARU
-
-Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
-
-#### Enhancing Audio Description project
-01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
-04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
-
-My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
-
-<br>
-
-### associate lecturing positions
-
-#### Sonic art (ARU)
-01/2019 – 06/2019  &nbsp; &nbsp; A 15 credit module where the cohort discussed the theoretical and practical aspects of sonic art and then produced work around these ideas. 
-
-#### Music for the moving image (ARU)
-09/2016 – 01/2017; 09/2017 – 01/2018; 09/2018 – 01/2019 &nbsp; &nbsp; A 15 credit module that allowed students to create original music and sound design linked to poetry, short films and video games using acoustic and computer-based methods of composition.
-
-<br>
-
-## other relevant experience
-### music technical officer at ARU
-03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
-
-### sole trader at Tedör Tea
-2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
+2019 - ongoing | Graduation Photography
+2019 - ongoing | Freelance Graphic Designer
 
 <br>
 
