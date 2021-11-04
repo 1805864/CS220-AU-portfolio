@@ -24,10 +24,6 @@ But, before you submit, please rename both files to contain your student number 
 1. you can have more than two pages on your website if needed
 2. your website can be made with another content management system (CMS) e.g. WordPress instead of GitHub Pages (just make sure you provide a link to your website.)
 
-<br> 
-
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in the workshops. If anything is unclear, ask for clarification in class or privately in my academic support hours. 
-
 <br>
 
 ## Log
@@ -50,8 +46,3 @@ How to use this GitHub repository as a template for your submission, including h
 - make screencast demonstrating the submission of this repository
 - go through this repository with students and clarify if needed
 
-<br>
-
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
