@@ -1,17 +1,4 @@
 # CS220 AU portfolio
-## Overview
-This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, your digital portfolio.
-
-It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
-- project management
-- writing articles
-- web-design with [GitHub Pages](https://pages.github.com/)
-- self-and peer-assessment
-- final checklist 
-
-The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information.
-
-<br>
 
 ## Portfolio items
 The portfolio you submit needs to contain the following:
@@ -49,26 +36,21 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2021-10-23 demonstrating VSC on computer. testing on another computer as well. testing on mac. testing GitHub Desktop. 
-- 2021-10-19 minor grammar and logic changes. 
-- 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
-- 2021-10-11 one peer assessment instead of two needed.
-- 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md file is changed to final-check.md. All files changed to reflect these changes. 
-- 2021-10-06 README.md refined with clearer overview. Change from submitting in PDF to submitting in .md (submit.md). 
-- 2021-10-05 submit.md refined (raw rubric sheet in excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammarly and ProWritingAid
-- 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
-- 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine-tuned
-- 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
-- 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
-
+- 2021-10-27 created github account and make two pages, one public and one private (notes)
+- 2021-10-27 catch up on visitor and resident map
+- 2021-10-28 pasted url for github website and started to edit the index file to make it more personalised
+- 2021-11-04 organising repositry and finish editing index file
 <br>
 
 ## TODO
-### week 4 - websites
-#### index.md
-- link good minimal examples
-- beautify index.md
+- beautify and finish index.md
     - add social media icons for hyperlinks
+    - create linkedin account
+- reflection and draft essay
+- 
+
+
+
 ## by week 7
 - make screencast demonstrating the submission of this repository
 - go through this repository with students and clarify if needed
