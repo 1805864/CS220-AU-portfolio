@@ -17,7 +17,8 @@ Currently I am in the process of volunteering with the Open Road organisation as
 #### Counsellor at The King Edmund School                                        03/2020 - 10/2019
 #### Counsellor at The Olive Tree srvice                                         03/2020 - 12/2016
 #### Counsellor at The Early Help Family Support & youth Offending Service       01/2019 - 09/2017
-     ![image](https://user-images.githubusercontent.com/92922164/141142636-3c0b3e5d-9214-404a-9d72-c0e550cca0bf.png)
+     
+![image](https://user-images.githubusercontent.com/92922164/141142636-3c0b3e5d-9214-404a-9d72-c0e550cca0bf.png)
 My responsibilies in each role incuded assessing individuals' needs, situations and support networks to determine their goal in a non-judgmental manner. Providing perosn-centred counselling to support clients issues rrelating to grief, anxiety, trauma anger stress and more. Advocating for and helping clients to obtain resources that imporve their well-being when applicable and managing time effectively and prioritising workload appropriately. 
 
 
