@@ -19,7 +19,7 @@ Currently I am in the process of volunteering with the Open Road organisation as
 #### Counsellor at The Early Help Family Support & youth Offending Service       01/2019 - 09/2017 
 My responsibilies in each role incuded assessing individuals' needs, situations and support networks to determine their goal in a non-judgmental manner. Providing perosn-centred counselling to support clients issues rrelating to grief, anxiety, trauma anger stress and more. Advocating for and helping clients to obtain resources that imporve their well-being when applicable and managing time effectively and prioritising workload appropriately. 
 
-I hold a few counselling qualifications such as Level 4 in Therapeutic counselling, Level 5 Diploma in counselling and various couses attended in accordance with my continuing professional development. 
+
 
 
 
