@@ -9,7 +9,7 @@ I have been counselling since 2016 and obtained my full counselling qualificatio
 
 
 
-Currently I am in the process of volunteering with the Open Road organisation as an Appropriate adult to safeguard a rights of vulnerable adults and children. In addition to my volunteering role I am in contact with my local borough councillor in order to set up and open up a club for the local community. Theclub will consist of individuals who come and share their stories as well as to relate one to another.    
+Currently I am in the process of volunteering with the Open Road organisation as an Appropriate adult to safeguard a rights of vulnerable adults and children. In addition to my volunteering role I am in contact with my local borough councillor in order to set up and open up a club for the local community. The club will consist of individuals who come and share their stories as well as to relate one to another.    
 
 
 ##  Counselling Work Experiences
