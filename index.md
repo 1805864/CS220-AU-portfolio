@@ -14,13 +14,9 @@ Currently I am in the process of volunteering with the Open Road organisation as
 
 ##  Counselling Work Experiences
 
-#### Counsellor at The King Edmund School                                        03/2020 - 10/2019
-
-![image](https://user-images.githubusercontent.com/92922164/141145923-2b96dfa3-ad90-4c01-ae60-7fa75ced6a87.png)
-
-
-#### Counsellor at The Olive Tree srvice                                         03/2020 - 12/2016
-#### Counsellor at The Early Help Family Support & youth Offending Service       01/2019 - 09/2017
+#### Counsellor at The King Edmund School                                        03/2020 - 10/2019 http://www.kes.essex.sch.uk/
+#### Counsellor at The Olive Tree srvice                                         03/2020 - 12/2016 https://christiancounselling.info/ 
+#### Counsellor at The Early Help Family Support & youth Offending Service       01/2019 - 09/2017 https://livewellsouthend.com/
      
 ![image](https://user-images.githubusercontent.com/92922164/141142636-3c0b3e5d-9214-404a-9d72-c0e550cca0bf.png)
 
