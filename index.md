@@ -21,9 +21,9 @@ Currently I am volunteering with the Open Road organisation as an Appropriate ad
 
 ##  Counselling Work Experiences
 
-#### Counsellor at The King Edmund School                                               * *03/2020 - 10/2019       * http://www.kes.essex.sch.uk/
-#### Counsellor at The Olive Tree Service                                               * *03/2020 - 12/2016       * https://christiancounselling.info/ 
-#### Counsellor at The Early Help Family Support & youth Offending Service              * *01/2019 - 09/2017       * https://livewellsouthend.com/
+#### Counsellor at The King Edmund School                                               * 03/2020 - 10/2019       * http://www.kes.essex.sch.uk/
+#### Counsellor at The Olive Tree Service                                               * 03/2020 - 12/2016       * https://christiancounselling.info/ 
+#### Counsellor at The Early Help Family Support & youth Offending Service              * 01/2019 - 09/2017       * https://livewellsouthend.com/
 
 <br>
 
@@ -35,10 +35,9 @@ Currently I am volunteering with the Open Road organisation as an Appropriate ad
 *	Following up with individuals to ensure that their circumstances have improved.
 *	Managing time effectively and prioritising workloads appropriately.
 
+<br> 
 
-
-
-My responsibilies in each role incuded assessing individuals' needs, situations and support networks to determine their goal in a non-judgmental manner. Providing perosn-centred counselling to support clients issues rrelating to grief, anxiety, trauma anger stress and more. Advocating for and helping clients to obtain resources that imporve their well-being when applicable and managing time effectively and prioritising workload appropriately. 
+What I was able to gain from my studies so far is a different range of perspectives in depth psychoanalytic and pschosocial studies. This, I was able to acquire by various theoretical, methodological and critical application on concepts relating to the studies.As a student I have been capable in participating and developng with critical thinking relating to human mind and our society.   
 
 
 
