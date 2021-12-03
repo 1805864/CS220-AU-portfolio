@@ -3,7 +3,8 @@
 ## Nadia Georgiou
 **Qualified counsellor and ongoing student at the present**  
 
-![Foto](https://user-images.githubusercontent.com/92922164/144663172-190f8ab8-26b8-4b0e-b5f5-8aa6f4073edb.jpg)
+![Foto](https://user-images.githubusercontent.com/92922164/144663538-26c223a7-45bb-4d61-b993-40ed2414fa4d.jpg)
+
 
 
 
