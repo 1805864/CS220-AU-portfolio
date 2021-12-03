@@ -28,12 +28,12 @@ Currently I am volunteering with the Open Road organisation as an Appropriate ad
 <br>
 
 ##KEY RESPONSIBILITIES & ACHIEVEMENTS
-	Assessing individuals’ needs, situations and support networks to determine their goals in a non-judgmental manner.
-	Providing person-centred counselling to support clients on issues relating to grief, anxiety, trauma, domestic violence, anger, bereavement, stress, depression and abuse.
-	Assisting individuals to adjust to changes and challenges in their lives.
-	Advocating for and helping clients to obtain resources that improve their well-being.
-	Following up with individuals to ensure that their circumstances have improved.
-	Managing time effectively and prioritising workloads appropriately.
+*	Assessing individuals’ needs, situations and support networks to determine their goals in a non-judgmental manner.
+*	Providing person-centred counselling to support clients on issues relating to grief, anxiety, trauma, domestic violence, anger, bereavement, stress, depression and abuse.
+*	Assisting individuals to adjust to changes and challenges in their lives.
+*	Advocating for and helping clients to obtain resources that improve their well-being.
+*	Following up with individuals to ensure that their circumstances have improved.
+*	Managing time effectively and prioritising workloads appropriately.
 
 
 
