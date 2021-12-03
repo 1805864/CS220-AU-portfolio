@@ -11,7 +11,7 @@
 
 My name is Nadia Georgiou. I am a qualified counsellor offering Person-Centred approach. I am a registered member of the BACP ( British Association for Counselling and Psychotherapy), currently studying at the University of Essex Colchester, where I engage in Psychosocial and Psychoanalytic studies.
 
-I have been counselling since 2016 and obtained my full counselling qualification in 2018. Due to my client work cases, which mainly includes clients dealing with sexual assaults and domestic violent relationships, in 2020 i have decided to enrol to undergraduate studies. In order to gain a greater understanding of the theory learnt at the course which will provide me with some inside into human behaviour. Therefore, allowing me to be better equipped to provide greater understanding to my clients, including the ability of considerate empathy, comprehension and safer conditions. 
+I have been counselling since 2016 and obtained my full counselling qualification in 2018. Due to my client work cases, which mainly includes clients dealing with sexual assaults and domestic violent relationships. In 2020 I have decided to enrol to undergraduate studies. In order to gain a greater understanding of the theory learnt at the course which will provide me with some inside into human behaviour. Therefore, allowing me to be better equipped to provide greater understanding to my clients, including the ability of considerate empathy, comprehension and safer conditions. 
 
 
 
@@ -22,12 +22,17 @@ Currently I am volunteering with the Open Road organisation as an Appropriate ad
 ##  Counselling Work Experiences
 
 #### Counsellor at The King Edmund School                                               * 03/2020 - 10/2019       * http://www.kes.essex.sch.uk/
+*The King Edmund school is a comprehensive secondary school for students aged 11 - 18 in Rochford, Essex.
 #### Counsellor at The Olive Tree Service                                               * 03/2020 - 12/2016       * https://christiancounselling.info/ 
+*The Centre is a Christian organisation offering counselling to all who are in need
 #### Counsellor at The Early Help Family Support & youth Offending Service              * 01/2019 - 09/2017       * https://livewellsouthend.com/
+*local coucil provinding counselling and family support to the most vulnerable individuals within thier community.
+
+
 
 <br>
 
-##KEY RESPONSIBILITIES & ACHIEVEMENTS
+##KEY RESPONSIBILITIES AND ACHIVEMENTS
 *	Assessing individuals’ needs, situations and support networks to determine their goals in a non-judgmental manner.
 *	Providing person-centred counselling to support clients on issues relating to grief, anxiety, trauma, domestic violence, anger, bereavement, stress, depression and abuse.
 *	Assisting individuals to adjust to changes and challenges in their lives.
@@ -37,7 +42,7 @@ Currently I am volunteering with the Open Road organisation as an Appropriate ad
 
 <br> 
 
-What I was able to gain from my studies so far is a different range of perspectives in depth psychoanalytic and pschosocial studies. This, I was able to acquire by various theoretical, methodological and critical application on concepts relating to the studies.As a student I have been capable in participating and developng with critical thinking relating to human mind and our society.   
+What I was able to gain from my studies so far is a different range of perspectives in depth psychoanalytic and pschosocial studies. This, I was able to acquire by various theoretical, methodological and critical application on concepts relating to the studies. As a student I have been capable in participating and developing with critical thinking relating to human mind and our society.   
 
 
 
