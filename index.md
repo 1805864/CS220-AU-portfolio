@@ -15,7 +15,8 @@ I have been counselling since 2016 and obtained my full counselling qualificatio
 
 
 
-Currently I am volunteering with the Open Road organisation as an Appropriate adult to safeguard a rights of vulnerable adults and children. In addition to my volunteering role I am in contact with my local borough councillor in order to set up and open up a club for the local community. The club will consist of individuals who come and share their stories as well as to relate one to another.    
+Currently I am volunteering with the Open Road organisation as an Appropriate adult to safeguard a rights of vulnerable adults and children. In addition to my volunteering role I am in contact with my local borough councillor in order to set up and open up a club for the local community. The club will consist of individuals who come and share their stories as well as to relate one to another.
+<br>
 
 
 ##  Counselling Work Experiences
@@ -25,6 +26,16 @@ Currently I am volunteering with the Open Road organisation as an Appropriate ad
 #### Counsellor at The Early Help Family Support & youth Offending Service            01/2019 - 09/2017       - https://livewellsouthend.com/
 
 <br>
+
+##KEY RESPONSIBILITIES & ACHIEVEMENTS
+	Assessing individuals’ needs, situations and support networks to determine their goals in a non-judgmental manner.
+	Providing person-centred counselling to support clients on issues relating to grief, anxiety, trauma, domestic violence, anger, bereavement, stress, depression and abuse.
+	Assisting individuals to adjust to changes and challenges in their lives.
+	Advocating for and helping clients to obtain resources that improve their well-being.
+	Following up with individuals to ensure that their circumstances have improved.
+	Managing time effectively and prioritising workloads appropriately.
+
+
 
 
 My responsibilies in each role incuded assessing individuals' needs, situations and support networks to determine their goal in a non-judgmental manner. Providing perosn-centred counselling to support clients issues rrelating to grief, anxiety, trauma anger stress and more. Advocating for and helping clients to obtain resources that imporve their well-being when applicable and managing time effectively and prioritising workload appropriately. 
