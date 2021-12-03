@@ -61,7 +61,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2120-12-03 put the website together and write most of the essay in any format - convert it to pdf...include picture and feedbacks to the website
 - 2021-11-25 go over moodle module page look for helpful information including (collective experience)
 - 2021-11-18 start working on my website
-- 2021-11-11 set up zoom meeting with Kris clarify how to amend my account name
+- 2021-11-11 set up zoom meeting with Kris clarify how to amend my github account name
 - 2021-11-04 send email, ask the tutor, clarify di-identity
 - 2021-10-28 ask about private website
 ### week 4 - websites
