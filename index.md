@@ -23,13 +23,13 @@ Currently I am volunteering with the Open Road organisation as an Appropriate ad
 
 ##  Counselling Work Experiences
 
-## Counsellor at The King Edmund School                                               * 03/2020 - 10/2019       * http://www.kes.essex.sch.uk/
+### Counsellor at The King Edmund School                                               * 03/2020 - 10/2019       * http://www.kes.essex.sch.uk/
 The King Edmund school is a comprehensive secondary school for students aged 11 - 18 in Rochford, Essex.
 <br>
-## Counsellor at The Olive Tree Service                                               * 03/2020 - 12/2016       * https://christiancounselling.info/ 
+### Counsellor at The Olive Tree Service                                               * 03/2020 - 12/2016       * https://christiancounselling.info/ 
 The Centre is a Christian organisation offering counselling to all who are in need.
 <br>
-## Counsellor at The Early Help Family Support & youth Offending Service              * 01/2019 - 09/2017       * https://livewellsouthend.com/
+### Counsellor at The Early Help Family Support & youth Offending Service              * 01/2019 - 09/2017       * https://livewellsouthend.com/
 Local coucil provinding counselling and family support to the most vulnerable individuals within thier community.
 
 
