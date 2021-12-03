@@ -35,7 +35,7 @@ Local coucil provinding counselling and family support to the most vulnerable in
 <br>
 
 
-## KEY RESPONSIBILITIES AND ACHIVEMENTS
+## KEY RESPONSIBILITIES AND ACHIEVEMENTS
 *	Assessing individuals’ needs, situations and support networks to determine their goals in a non-judgmental manner.
 *	Providing person-centred counselling to support clients on issues relating to grief, anxiety, trauma, domestic violence, anger, bereavement, stress, depression and abuse.
 *	Assisting individuals to adjust to changes and challenges in their lives.
