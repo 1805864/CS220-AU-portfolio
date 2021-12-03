@@ -38,6 +38,7 @@ Southend Borough council provinding counselling and family support to the most v
 ## KEY RESPONSIBILITIES AND ACHIEVEMENTS
 *	Assessing individuals’ needs, situations and support networks to determine their goals in a non-judgmental manner.
 *	Providing person-centred counselling to support clients on issues relating to grief, anxiety, trauma, domestic violence, anger, bereavement, stress, depression and abuse.
+*	Use of play therapy for some students to express themselves within the confidential environment.
 *	Assisting individuals to adjust to changes and challenges in their lives.
 *	Advocating for and helping clients to obtain resources that improve their well-being.
 *	Following up with individuals to ensure that their circumstances have improved.
