@@ -16,6 +16,8 @@ I have been counselling since 2016 and obtained my full counselling qualificatio
 
 
 Currently I am volunteering with the Open Road organisation as an Appropriate adult to safeguard a rights of vulnerable adults and children. In addition to my volunteering role I am in contact with my local borough councillor in order to set up and open up a club for the local community. The club will consist of individuals who come and share their stories as well as to relate one to another.
+
+
 <br>
 
 
@@ -31,8 +33,8 @@ The Centre is a Christian organisation offering counselling to all who are in ne
 Local coucil provinding counselling and family support to the most vulnerable individuals within thier community.
 
 
-
 <br>
+
 
 ##KEY RESPONSIBILITIES AND ACHIVEMENTS
 *	Assessing individuals’ needs, situations and support networks to determine their goals in a non-judgmental manner.
