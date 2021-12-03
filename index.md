@@ -1,7 +1,6 @@
  
 
-## Nadia Georgiou
-**Qualified counsellor and ongoing student at the present**  
+## Nadia Georgiou **Qualified counsellor and ongoing student at the present**  
 
 ![Foto](https://user-images.githubusercontent.com/92922164/144663882-6ca4480d-c3ff-406b-b215-8dbcbfc41fd5.jpg)
 
