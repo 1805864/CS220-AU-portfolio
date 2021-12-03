@@ -3,7 +3,8 @@
 ## Nadia Georgiou
 **Qualified counsellor and ongoing student at the present**  
 
-![Foto](https://user-images.githubusercontent.com/92922164/144662896-dce2adc2-20dc-4f9d-bd76-8c20bde6bb15.jpg)
+![Foto](https://user-images.githubusercontent.com/92922164/144663172-190f8ab8-26b8-4b0e-b5f5-8aa6f4073edb.jpg)
+
 
 
 My name is Nadia Georgiou. I am a qualified counsellor offering Person-Centred approach. I am a registered member of the BACP ( British Association for Counselling and Psychotherapy), currently studying at the University of Essex Colchester, where I engage in Psychosocial and Psychoanalytic studies.
