@@ -8,7 +8,8 @@
 
 
 
-My name is Nadia Georgiou. I am a qualified counsellor offering Person-Centred approach. I am a registered member of the BACP ( British Association for Counselling and Psychotherapy), currently studying at the University of Essex Colchester, where I engage in Psychosocial and Psychoanalytic studies.
+My name is Nadia Georgiou. I am a qualified counsellor offering Person-Centred approach. I am a registered member of the BACP ( British Association for Counselling and Psychotherapy), currently studying at the University of Essex Colchester, where I engage in Psychosocial and Psychoanalytic studies. 
+What I was able to gain from my studies so far is a different range of perspectives in depth psychoanalytic and pschosocial studies. This, I was able to acquire by various theoretical, methodological and critical application on concepts relating to the studies. As a student I have been capable in participating and developing with critical thinking relating to human mind and our society.  
 
 I have been counselling since 2016 and obtained my full counselling qualification in 2018. Due to my client work cases, which mainly includes clients dealing with sexual assaults and domestic violent relationships. In 2020 I have decided to enrol to undergraduate studies. In order to gain a greater understanding of the theory learnt at the course which will provide me with some inside into human behaviour. Therefore, allowing me to be better equipped to provide greater understanding to my clients, including the ability of considerate empathy, comprehension and safer conditions. 
 
