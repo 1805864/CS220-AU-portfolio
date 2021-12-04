@@ -47,7 +47,7 @@ Southend Borough council provinding counselling and family support to the most v
 
 <br> 
 
-What I was able to gain from my studies so far is a different range of perspectives in depth psychoanalytic and pschosocial studies. This, I was able to acquire by various theoretical, methodological and critical application on concepts relating to the studies. As a student I have been capable in participating and developing with critical thinking relating to human mind and our society.   
+## TESTEMONIALS
 
 
 
