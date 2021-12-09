@@ -56,12 +56,12 @@ Some other spotify cover art  :
 
 <br>
 
-<iframe src="https://open.spotify.com/embed/album/5M85A6uL9ziP9B0Jt56E3X?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3HzBZvA2Ur7hqbOy0g6aYa?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 <br>
 
-<iframe src="https://open.spotify.com/embed/album/16bROZw0rwWjoErPNkFcRO?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7scDupeuVYCZHJwdiM4EyL?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <br>
 
