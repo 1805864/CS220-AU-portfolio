@@ -11,7 +11,7 @@ I am a second year student, studying Digital Culture and Communications at the U
 <br>
 
 ## social media links
-- [LinkedIn](https://www.linkedin.com/in/tedor)
+- [LinkedIn] - paste linked in link 
 
 <br>
 
@@ -38,24 +38,11 @@ I am a second year student, studying Digital Culture and Communications at the U
 
 <br>
 
-Here is an example on how to embed an image from an external website:
+Graphic Design : I am a self taught designer which means that i use resources such as youtube, and free courses online to practice and teach myself how to use design programmes. As a freelance graphics designer, i use programmes such as adobe illustrator and photoshop to create many designs. In my experience i have made logos, posters, and music cover art. My interest in design started around 2019 when one of my friends who was releasing a song and needed someone to make cover art for it. At the time i had never made anything but i figured it out and enjoyed the process and from then i advertised to peers and other students my services and over time started making cover art for them. To practice i also designed posters for fun, and uploaded them to instagram. This is when i began my brand identity. 'Allisha's Art' is a business account that was made to post my designs, both professional and conceptual. This was also a good way for me to find clients etc. 
 
-![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
-
-<br>
-
-And here is an example for embedding an audio player:
 
 <br>
 
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3437348308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
+Put CV here 
 
-<br>
 
-Here an example to embed a video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br> 
-
-My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
