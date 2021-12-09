@@ -47,7 +47,7 @@ Southend Borough council provinding counselling and family support to the most v
 
 <br> 
 
-## TESTEMONIALS
+## TESTIMONIALS
 
 
 
