@@ -29,6 +29,9 @@ But, before you submit, please rename both files to contain your student number 
 - 2021-10-27 catch up on visitor and resident map
 - 2021-10-28 pasted url for github website and started to edit the index file to make it more personalised
 - 2021-11-04 organising repositry and finish editing index file
+- 2021-11-11 organise links for website
+- 2021-11-18 plan essay
+- 2021-11-25 start essay
 <br>
 
 ## TODO
