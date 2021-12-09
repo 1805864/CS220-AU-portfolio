@@ -52,7 +52,9 @@ From then i advertised to peers and other students my services and over time sta
 
 <br>
 
-Some other spotify cover art
+Some other spotify cover art  :
+
+<br>
 
 <iframe src="https://open.spotify.com/embed/album/5M85A6uL9ziP9B0Jt56E3X?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
