@@ -59,7 +59,8 @@ Southend Borough council provinding counselling and family support to the most v
 
 ## TESTIMONIALS and REFERENCES 
 
-I thank you each day, for all the help you have given to me. You listen to all my troubles and help me sort the thoughts and feelings inside my head, allowing me to find my boundaries. You have a wonderful way of listening, making sense out of the mess i held inside myself. You share some much care like you were feeling my pain along with me. Also, that things will get better to deal with. You always made me feel safe talking and sharing my deepest thoughts. please do not change anything about how do you do your way of counselling.  
+I thank you each day, for all the help you have given to me. You listen to all my troubles and help me sort the thoughts and feelings inside my head, allowing me to find my boundaries. You have a wonderful way of listening, making sense out of the mess i held inside myself. You share some much care like you were feeling my pain along with me. Also, that things will get better to deal with. You always made me feel safe talking and sharing my deepest thoughts. please do not change anything about how do you do your way of counselling.
+
 Sharon
 
 <br>
