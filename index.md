@@ -1,9 +1,12 @@
 ## Student Number: 1805864
+
+Portfolio Style Website 
+
 **Digital Culture and Communications Student at Essex Univesity**  
 
 Hello! My name is Allisha. 
 
-I am a second year student, studying Digital Culture and Communications at the University of Essex. Alongside this I 
+I am a second year student, studying Digital Culture and Communications at the University of Essex. Alongside this i am also a freelance graphic designer and photographer.
 
 <br>
 
