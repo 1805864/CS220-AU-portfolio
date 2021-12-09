@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 </style>
 <body class="w3-light-grey">
 
