@@ -43,8 +43,9 @@ Graphic Design : I am a self taught designer which means that i use resources su
 
 The song that i created my first cover for has been uploaded to spotify : 
 
-<iframe src="https://open.spotify.com/embed/track/5bpZdKUtJEFXHFDFKXAiYU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<br>
 
+<iframe src="https://open.spotify.com/embed/track/5bpZdKUtJEFXHFDFKXAiYU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <br>
 
@@ -58,7 +59,6 @@ Some other spotify cover art  :
 
 <iframe src="https://open.spotify.com/embed/track/3HzBZvA2Ur7hqbOy0g6aYa?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-
 <br>
 
 <iframe src="https://open.spotify.com/embed/track/7scDupeuVYCZHJwdiM4EyL?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -66,7 +66,6 @@ Some other spotify cover art  :
 <br>
 
 - Instert designs here -
-
 
 <br>
 
