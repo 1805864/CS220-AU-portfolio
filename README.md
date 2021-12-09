@@ -20,9 +20,7 @@ But, before you submit, please rename both files to contain your student number 
 1. 0610279-di-reflection.pdf
 2. 0610279-final-check.md
 
-### Flexibilities 
-1. you can have more than two pages on your website if needed
-2. your website can be made with another content management system (CMS) e.g. WordPress instead of GitHub Pages (just make sure you provide a link to your website.)
+
 
 <br>
 
@@ -34,15 +32,9 @@ But, before you submit, please rename both files to contain your student number 
 <br>
 
 ## TODO
-- beautify and finish index.md
+-  finish index.md
     - finish website
     - finisih CV and link CV
 - finish essay
-- 
-
-
-
-## by week 7
-- make screencast demonstrating the submission of this repository
-- go through this repository with students and clarify if needed
+- upload files to github 
 
