@@ -25,6 +25,7 @@ Currently I am volunteering with the Open Road organisation as an Appropriate ad
 
 ### Counsellor at The King Edmund School                                               * 03/2020 - 10/2019       * (http://www.kes.essex.sch.uk/).
 03/2020 - 10/2019  (http://www.kes.essex.sch.uk/).
+
 The King Edmund school is a comprehensive secondary school for students aged 11 - 18 in Rochford, Essex.
 <br>
 ### Counsellor at The Olive Tree Service                                               * 03/2020 - 12/2016       * (https://christiancounselling.info/). 
