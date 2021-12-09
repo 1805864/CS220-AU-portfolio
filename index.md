@@ -45,6 +45,7 @@ The song that i created my first cover for has been uploaded to spotify :
 
 <iframe src="https://open.spotify.com/embed/track/5bpZdKUtJEFXHFDFKXAiYU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+
 <br>
 
 From then i advertised to peers and other students my services and over time started making cover art for them. To practice i also designed posters for fun, and uploaded them to instagram. This is when i began my brand identity. 'Allisha's Art' is a business account that was made to post my designs, both professional and conceptual. This was also a good way for me to find clients, and a way to express my appreciation of music and art.
@@ -54,6 +55,7 @@ From then i advertised to peers and other students my services and over time sta
 Some other spotify cover art
 
 <iframe src="https://open.spotify.com/embed/album/5M85A6uL9ziP9B0Jt56E3X?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 
 <br>
 
