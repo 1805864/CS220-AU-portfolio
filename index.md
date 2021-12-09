@@ -65,7 +65,7 @@ Sharon
 <br>
 
 Nadia is hardworking, compassionate and much liked and respected by her clients and collegues. She is passionate about the things she engages with and as a consequence gets results in difficult situations. She is tenacious and determined and exhibits courage and cler thinking in life and death situations. Guided by the ethical principles of The British Association for Counselling and Psychotherapy ( BACP) , Nadia makes well balanced and sensible decisions. During her training as a counsellor, I am aware that she received the Outstanding Student of the year award from her college. 
-Supervisor
+ Supervisor
 
 
 
