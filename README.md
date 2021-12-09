@@ -35,9 +35,9 @@ But, before you submit, please rename both files to contain your student number 
 
 ## TODO
 - beautify and finish index.md
-    - add social media icons for hyperlinks
-    - create linkedin account
-- reflection and draft essay
+    - finish website
+    - finisih CV and link CV
+- finish essay
 - 
 
 
