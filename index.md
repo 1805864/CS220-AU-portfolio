@@ -41,7 +41,7 @@ The Centre is a Christian organisation offering counselling to all who are in ne
 
 ### Counsellor at The Early Help Family Support & youth Offending Service              
 01/2019 - 09/2017 
-https://livewellsouthend.com/ 
+ https://livewellsouthend.com/ 
 
 Southend Borough council provinding counselling and family support to the most vulnerable individuals within thier community.
 
