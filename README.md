@@ -49,6 +49,10 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2012-12-20 maps reviewed, hard copy of essay commenced 
+- 2021-12-17 update Log/ToDo list as I go along
+- 2021-12-15 text the group about the peer assessment
+- 2021-12-14 send email of my absence
 - 2021-12-03 concentrate on website and essay outline
 - 2021-11-25 start mapping my essay and self-reflection on my V&R vitisor and resident identity
 - 2021-11-18 think about website i want to create, supported by my di-identity
@@ -58,6 +62,10 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
+- 2021-12-20 write a small introduction for my overview 
+- 2021-12-15 find someone to pair upp for the assessment
+- 2021-12-13 create two maps - past and present - talk/elabote about the future one in the essay
+- 2021-12-12 stop trying to create V&R map online and do it on the paper 
 - 2021-12-06 send email with essay draft to Krisztian as well as testemonials
 - 2021-12-03 put the website together and write most of the essay in any format - convert it to pdf...include picture and feedbacks to the website
 - 2021-11-25 go over moodle module page look for helpful information including (collective experience)
