@@ -72,6 +72,15 @@ Nadia is hardworking, compassionate and much liked and respected by her clients 
 
 Supervisor
 
+<br>
+
+Thank you so much for the help and support you have given me these past few months. You have helped me in ways I could never have imagined and I am so grateful for your time, kind words and encouragement. You are so easy to talk to and our positive relationship made me feel comfortable enough to talk. I am quite sad to know I won't see you again, but I am thankful that I am ready to move forward. 
+
+Client
+
+
+
+
 
 
 
