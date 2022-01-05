@@ -15,7 +15,9 @@ I have been counselling since 2016 and obtained my full counselling qualificatio
 
 
 
-Currently I am volunteering with the Open Road organisation as an Appropriate adult to safeguard a rights of vulnerable adults and children. In addition to my volunteering role I am in contact with my local borough councillor in order to set up and open up a club for the local community. The club will consist of individuals who come and share their stories as well as to relate one to another.
+Currently I am volunteering with the Open Road organisation as an Appropriate adult. Open Road organisation provides Criminal Justice Srvices which are aimed at safeguarging communities and reducing offending within the community. The role of an Appropriate Adult the role is to look after the detained persons welfare, provide information about the detained persons rights and ensure that these are protected and advise the detained person. The role of the Appropriate Adult was first introduced under the Police and Criminal Act 1984 (PACE).
+
+As a counsellor, it comes as my second nature not to make a pre-judgement of people. Therefore, volunteering for such an organisation and in an environment of such nature was a good opportunity of observing and realising human behaviour. 
 
 
 <br>
