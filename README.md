@@ -9,7 +9,7 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 - self-and peer-assessment
 - final checklist 
 
-The overview of the portfolio of my GitHub website is one page single clear pressentation of myself including skills, work experiences, current and past interest with inclusion of testimonials from two former clients and a supervisor. Personal image included in repository for aesthetical design and presentation.   
+The overview of the portfolio of my GitHub website is one page single clear pressentation of myself including skills, work experiences, current and past interests with inclusion of testimonials from two former clients and a supervisor. Personal image included in repository for aesthetical design and presentation.   
 
 <br>
 
