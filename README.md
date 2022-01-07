@@ -49,6 +49,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2022-01-07 add couple of lines to bio 
 - 2022-01-07 check in with Allisha, essay finished
 - 2022-01-05 review profile, need a new picture
 - 2021-12-22 review the V&R map 
