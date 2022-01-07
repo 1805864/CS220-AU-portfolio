@@ -49,7 +49,10 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2012-12-20 maps reviewed, hard copy of essay commenced 
+- 2022-01-07 check in with Allisha, essay finished
+- 2022-01-05 review profile, need a new picture
+- 2021-12-22 review the V&R map 
+- 2021-12-20 maps reviewed, hard copy of essay commenced 
 - 2021-12-17 update Log/ToDo list as I go along
 - 2021-12-15 text the group about the peer assessment
 - 2021-12-14 send email of my absence
@@ -62,6 +65,11 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
+- 2022-01-08 write the front page of profile CS220, be ready for peer assessment, check final check folder
+- 2022-01-07 review and rewrite Overview
+- 2022-01-05 need to write about Open Road organisation
+- 2021-12-22 reply to Allisha about the peer assessment
+- 2021-12-22 start a new (old 1.1) map
 - 2021-12-20 write a small introduction for my overview 
 - 2021-12-15 find someone to pair upp for the assessment
 - 2021-12-13 create two maps - past and present - talk/elabote about the future one in the essay
