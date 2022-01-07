@@ -1,6 +1,6 @@
 # CS220 AU portfolio
 ## Overview
-This GitHub repository is a template for the [CS220 AU] https://github.com/2008462/CS220-AU-portfolio/edit/main/README.md assignment, your digital portfolio.
+This GitHub repository is a template for the [CS220 AU] https://github.com/2008462/CS220-AU-portfolio/edit/main/README.md assignment, my digital portfolio.
 
 It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
 - project management
@@ -9,7 +9,7 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 - self-and peer-assessment
 - final checklist 
 
-The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information.
+The overview of the portfolio of my GitHub website is one page single clear pressentation of myself including skills, work experiences, current and past interest with inclusion of testimonials from two former clients and a supervisor. Personal image included in repository for aesthetical design and presentation.   
 
 <br>
 
