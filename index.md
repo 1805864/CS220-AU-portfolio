@@ -1,59 +1,24 @@
----
-layout: default
-title: Home
----
+# CS220 Portfolio 
 
-<div class="home">
-
-  <ul class="posts">
-    {% for post in paginator.posts %}
-    <li>
-      <h1 >{{ post.title }}</h1>
-      <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-      {{ post.excerpt }}
-      <div class="continue">
-        <a href="{{ post.url | prepend: site.baseurl }}">&bull;&bull;&bull;</a>
-      </div>
-    </li>
-    {% endfor %}
-  </ul>
-
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      {% if page == 2 %}
-        <a class="page-link" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">prv</a>
-      {% else %}
-        <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">prv</a>
-      {% endif %}
-    {% else %}
-      <span class="page-link">prv</span>
-    {% endif %}
-
-    {% if paginator.next_page %}
-      <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">nxt</a>
-    {% else %}
-      <span class="page-link">nxt</span>
-    {% endif %}
-  </div>
-
-</div>
 ## Student Number: 1805864
 
-**Digital Culture and Communications Student at Essex Univesity**  
+## **Digital Culture and Communications Student at Essex Univesity** 
+
+### Introduction: 
 
 Hello! My name is Allisha. 
 
-I am a second year student, studying Digital Culture and Communications at the University of Essex. Alongside this i am also a freelance graphic designer and photographer.
+I am a second year student, studying Digital Culture and Communications at the University of Essex. Alongside this i am also a freelance graphic designer. 
 
 <br>
 
-## social media links
+### social media links
 - linkedin  - paste linked in link 
 - instagram - paste instagram link 
 
 <br>
 
-## contact
+### contact
 - Email : ac18785@essex.ac.uk
 
 <br>
