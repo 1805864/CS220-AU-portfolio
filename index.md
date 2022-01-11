@@ -1,15 +1,5 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:#e6ccbb;">
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
 <head>
 <link href='https://fonts.googleapis.com/css?family=Alike' rel='stylesheet'>
 <style>
@@ -18,7 +8,6 @@ body {
 }
 </style>
 </head>
-<body>
 
 </body>
 </html>
