@@ -9,10 +9,7 @@ body {
 </style>
 </head>
 
-</body>
-</html>
-
-# CS220 Portfolio 
+ CS220 Portfolio 
 
 ## Student Number: 1805864
 
@@ -20,6 +17,11 @@ body {
 
 ### Introduction: 
 
+
+</body>
+</html>
+
+#
 Hello! My name is Allisha. 
 
 >I am a second year student, studying Digital Culture and Communications at the University of Essex. Alongside this i am also a freelance graphic designer. 
