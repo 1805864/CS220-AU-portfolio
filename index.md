@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body style="background-color:powderblue;">
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-# CS220 Portfolio 
-
+<span style="color:green">some *blue* text</span>.
 ## Student Number: 1805864
 
 ## **Digital Culture and Communications Student at Essex Univesity** 
