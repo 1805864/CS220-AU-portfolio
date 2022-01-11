@@ -8,7 +8,7 @@
 
 Hello! My name is Allisha. 
 
-I am a second year student, studying Digital Culture and Communications at the University of Essex. Alongside this i am also a freelance graphic designer. 
+>I am a second year student, studying Digital Culture and Communications at the University of Essex. Alongside this i am also a freelance graphic designer. 
 
 <br>
 
