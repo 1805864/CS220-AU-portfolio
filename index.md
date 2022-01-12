@@ -1,4 +1,3 @@
-
  CS220 Portfolio 
 
 ## Student Number: 1805864
@@ -6,6 +5,10 @@
 ## **Digital Culture and Communications Student at Essex Univesity** 
 
 ### Introduction: 
+
+
+</body>
+</html>
 
 #
 Hello! My name is Allisha. 
