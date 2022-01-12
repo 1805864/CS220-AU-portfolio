@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link href='https://fonts.googleapis.com/css?family=Alike' rel='stylesheet'>
-<style>
-body {
-    font-family: 'Alike';font-size: 22px;
-}
-</style>
-</head>
 
  CS220 Portfolio 
 
@@ -16,10 +6,6 @@ body {
 ## **Digital Culture and Communications Student at Essex Univesity** 
 
 ### Introduction: 
-
-
-</body>
-</html>
 
 #
 Hello! My name is Allisha. 
