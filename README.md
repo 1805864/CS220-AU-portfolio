@@ -44,7 +44,8 @@ My Di-Identity essay including two V&R maps are submitted as a pdf file and not 
 
 <br>
 
-## Log
+## Log 
+- 2022-01-13 maps converted to pdf
 - 2022-01-13 essay converted to pdf
 - 2022-01-13 changed my profile of the portfolio photo
 - 2022-01-07 add couple of lines to bio 
