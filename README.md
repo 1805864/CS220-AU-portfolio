@@ -40,6 +40,7 @@ But, before you submit, please rename both files to contain your student number 
 
 ### Flexibilities 
 My portfolio profile is submitted as one page used by GitHub repository. 
+My Di-Identity essay including two V&R maps are submitted as a pdf file and not as a content of a GitHub reposetory. 
 
 <br>
 
@@ -63,6 +64,7 @@ My portfolio profile is submitted as one page used by GitHub repository.
 <br>
 
 ## TODO
+- 2022-01-13 updating all my paperwork, rename all folders 
 - 2022-01-13 send my essay and profile of portfolio for peer assessment, so can do my final check
 - 2022-01-08 write the front page of profile CS220, be ready for peer assessment, check final check folder
 - 2022-01-07 review and rewrite Overview
