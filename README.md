@@ -9,7 +9,7 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 - self-and peer-assessment
 - final checklist 
 
-The overview of the portfolio of my GitHub website is one page single clear pressentation of myself including skills, work experiences, current and past interests with inclusion of testimonials from two former clients and a supervisor. Personal image included in repository for aesthetical design and presentation.   
+The overview of the portfolio of my GitHub website is one page single clear pressentation of myself including skills, work experiences, current and past interests with inclusion of testimonials from two former clients and a supervisor. Personal image included in repository for aesthetical design and presentation. Log and To Do list updated on a regular basis.    
 
 <br>
 
@@ -44,8 +44,10 @@ My portfolio profile is submitted as one page used by GitHub repository.
 <br>
 
 ## Log
+- 2022-01-13 essay converted to pdf
+- 2022-01-13 changed my profile of the portfolio photo
 - 2022-01-07 add couple of lines to bio 
-- 2022-01-07 check in with Allisha, essay finished
+- 2022-01-07 check in with assessor, essay finished
 - 2022-01-05 review profile, need a new picture
 - 2021-12-22 review the V&R map 
 - 2021-12-20 maps reviewed, hard copy of essay commenced 
@@ -61,10 +63,11 @@ My portfolio profile is submitted as one page used by GitHub repository.
 <br>
 
 ## TODO
+- 2022-01-13 send my essay and profile of portfolio for peer assessment, so can do my final check
 - 2022-01-08 write the front page of profile CS220, be ready for peer assessment, check final check folder
 - 2022-01-07 review and rewrite Overview
 - 2022-01-05 need to write about Open Road organisation
-- 2021-12-22 reply to Allisha about the peer assessment
+- 2021-12-22 reply to student colleague about the peer assessment
 - 2021-12-22 start a new (old 1.1) map
 - 2021-12-20 write a small introduction for my overview 
 - 2021-12-15 find someone to pair upp for the assessment
@@ -78,4 +81,3 @@ My portfolio profile is submitted as one page used by GitHub repository.
 - 2021-11-04 send email, ask the tutor, clarify di-identity
 - 2021-10-28 ask about private website
 
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
