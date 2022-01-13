@@ -40,7 +40,7 @@ But, before you submit, please rename both files to contain your student number 
 
 ### Flexibilities 
 My portfolio profile is submitted as one page used by GitHub repository. 
-My Di-Identity essay including two V&R maps are submitted as a pdf file and not as a content of a GitHub reposetory. 
+My Di-Identity essay including two V&R maps are submitted as a pdf file and not as a content of a GitHub repository. 
 
 <br>
 
