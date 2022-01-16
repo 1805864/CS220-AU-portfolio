@@ -74,16 +74,16 @@ To help measure my progress, I asked another student in my group for feedback on
 
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1.1 |     |     |  o  |     |     |
+| 1.1 |     |     |     |  o  |     |
 | 1.2 |     |     |     |  o  |     |
-| 1.3 |     |  o  |     |     |     |
-| 2.1 |     |     |  o  |     |     |
+| 1.3 |     |     |     |  o  |     |
+| 2.1 |     |     |     |  o  |     |
 | 2.2 |     |     |     |  o  |     |
-| 3.1 |     |  o  |     |     |     |
-| 3.2 |     |     |  o  |     |     |
+| 3.1 |     |     |     |  o  |     |
+| 3.2 |     |     |     |  o  |     |
 | 4.1 |     |     |     |  o  |     |
 
-Feedback given by: <!-- add student nb -->
+Feedback given by: <!-- 1805864 --> I thought that her essay was well written and had good sources and references, i also thought she had  put alot of effort into her V+R maps, as they were hand drawn with colour. The webiste design was simple but still had lots of information which i really enjoyed.
 
 
 <br>
