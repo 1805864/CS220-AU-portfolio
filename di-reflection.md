@@ -1,5 +1,5 @@
 1805864
-1
+
 Digital Identity Reflection Essay
 
 Introduction
@@ -26,13 +26,16 @@ According to David S. White, a digital visitor and resident map is the “ways i
 
 My own visitor and resident map: (present)
 
-![![image](https://user-images.githubusercontent.com/93262200/149676502-920a5f83-7d5b-4a39-af4b-2404bf7a90ce.png)]
+![image](https://user-images.githubusercontent.com/93262200/149676546-96eeccd5-706e-4b15-a588-1a4315c25a39.png)]
+
 
 Analysis of my personal present visitor and resident map:
 
 Here I have placed my own web activity on the visitor and resident map, as you can see most of my activity reside in both visitor and resident, showing that I perform tasks and like to be online and socialise. This is because most of my activities are consuming media content and using social media to connect with people. I currently have some activity in the institution section, this is because in this point of my life I am currently attending university and networking is important for future connections and career. 2 Prensky, Marc. "H. sapiens digital: From digital immigrants and digital natives to digital wisdom." Innovate: journal of online education 5, no. 3 (2009).
 
 My future visitor and resident map:
+
+![image] (![image](https://user-images.githubusercontent.com/93262200/149676574-a67e2eb7-6e30-45c4-a85b-b3c92c0c6894.png)
 
 Analysis of future visitor and resident map:
 
