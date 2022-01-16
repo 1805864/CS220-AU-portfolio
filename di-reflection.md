@@ -35,7 +35,7 @@ Here I have placed my own web activity on the visitor and resident map, as you c
 
 My future visitor and resident map:
 
-![image] (![image](https://user-images.githubusercontent.com/93262200/149676574-a67e2eb7-6e30-45c4-a85b-b3c92c0c6894.png)
+![image](https://user-images.githubusercontent.com/93262200/149676574-a67e2eb7-6e30-45c4-a85b-b3c92c0c6894.png)
 
 Analysis of future visitor and resident map:
 
