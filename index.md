@@ -1,7 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	
--->
+
 <html>
 	<head>
 		<title>CS220 AU Website Portfolio</title>
