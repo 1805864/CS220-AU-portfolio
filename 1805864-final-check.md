@@ -2,7 +2,7 @@ Student number: 1805864
 Module code: CS220 AU  
 Coursework title: Digital Portfolio  
 Marker: Krisztian Hofstadter  
-GitHub repository URL: https://1805864.github.io/CS220-AU-portfolio/# 
+GitHub repository URL: https://github.com/1805864/CS220-AU-portfolio 
 
 ## Checklist
 
