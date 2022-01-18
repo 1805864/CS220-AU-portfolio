@@ -2,7 +2,7 @@
 
 ## Portfolio items
 
-1. **website** (40% of your overall mark) - insert website URL
+1. **website** (40% of your overall mark) - https://1805864.github.io/CS220-AU-portfolio/#
 2. **di reflection** (40% of your overall mark) - insert assessment URL
 3. **self-and peer-assessment** (10% of your overall mark) - insert assessment URL
 4. **portfolio overview** (10% of your overall mark) 
